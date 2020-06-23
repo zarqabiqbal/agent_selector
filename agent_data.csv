@@ -1,0 +1,12 @@
+is_available,available_since,roles,agent_name
+False,15:00:00,support/sales,Rahul
+True,10:00:00,support/spanish speaker,Vinay
+False,16:30:00,sales/spanish speaker,Ajay
+False,17:00:00,spanish speaker/support/sales,Shankar
+True,10:35:35,spanish speaker/sales/support,Govind
+True,09:29:59,sales/support,Shiv
+True,10:44:35,support/spanish speaker,Sanjay
+False,14:25:37,spanish speaker,Malini
+False,16:37:12,sales,Deepika
+True,10:01:45,support,Soni
+False,18:27:00,spanish speaker,Namrata
